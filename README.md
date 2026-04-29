@@ -2,7 +2,7 @@
 
 飞扬俱乐部大修活动自动化排班 —— 多维表格「数据表视图」插件版本。
 
-基于 [feiyang-maintenance-scheduler](../feiyang-maintenance-scheduler/) 的排班算法，
+基于 [feiyang-maintenance-scheduler](https://github.com/JerryThe-cat/feiyang-maintenance-scheduler) 的排班算法，
 改造为嵌入多维表格的前端插件：打开表格即用，无需 URL、无需后端服务。
 
 ## 目录结构
